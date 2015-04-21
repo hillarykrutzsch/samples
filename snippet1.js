@@ -1,3 +1,6 @@
+//EXAMPLE CODE 
+//showcasing parallax, Canvas animation, JQuery
+
 //client code has been removed
 var paidRequire = require.config({
     baseUrl: './',

@@ -1,4 +1,7 @@
-//personal data has been removed
+//SAMPLE CODE
+//showcasing the JS/JQuery from an interaction-heavy EPK site
+
+//relevant client data has been removed
 var bMobile = false;
 var canvas, stage, exportRoot;
 var currLocation = "hotel";

@@ -1,3 +1,5 @@
+<!-- SAMPLE CODE SHOWCASING AN API I WROTE TO MANAGE USER BADGE ACTIVITY AT A CONFERENCE -->
+
 <?php
 	header('Content-Type: text/html; charset=iso-8859-1'); 
     
